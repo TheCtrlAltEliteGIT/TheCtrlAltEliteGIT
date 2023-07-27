@@ -1,12 +1,37 @@
-![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
-Welcome to My GitHub Repository! 🎉
+<p align="left"><img width="20%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
- About Me 👨‍💻: I'm a student in Computer Science, passionate about programming.
- 
- Current Focus 🚀: Java and C# projects showcasing my skills.
- 
- Free Time Projects ⏳: I enjoy coding in PowerShell for automation tasks.
- 
- Future Learning Goals 📚: Looking forward to mastering Python and JavaScript.As well as using Linux 
+<p align="center">Hey Guys!🙋‍♂️ 
+ I am CtrlAltElite and I am a Computer Science Student and at the same time I work for a company as an DevOps Engineer Trainee!</p>
 
- Thanks for visiting! Happy coding! ✨
+## Skills: 
+
+:globe_with_meridians:Advanced Networking Skills
+
+:shark:Advanced WireShark Skills
+
+ <img width="20" src="https://pngimg.com/uploads/microsoft/microsoft_PNG5.png" /> Working with the Microsoft Azure Cloud 
+
+
+## Currently I code in:
+
+<img width="25" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F68%2Fc-sharp-800x800.png&f=1&nofb=1&ipt=ae7c64fd1dc272834329ebabef493fdd2539d173ff6067ccb51f025bb46decd8&ipo=images" alt="C# Icon"/> C#
+
+<img width="35" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java Icon"/> Java
+
+<img width="25" src="https://techmeaway.net/wp-content/uploads/2020/02/powershell_logo-1024x1024.png" alt="PowerShell Icon"/> PowerShell
+
+<img width="25" src="https://static.vecteezy.com/system/resources/previews/000/379/612/original/sql-vector-icon.jpg" alt="SQL Icon"/> SQL
+
+
+
+
+## In the Future I want to study the Following Languages:
+
+<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
+
+<img width="20" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"/> JavaScript
+
+
+
+
+
