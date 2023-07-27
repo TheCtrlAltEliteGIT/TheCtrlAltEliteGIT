@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 Welcome to My GitHub Repository! 🎉
 
  About Me 👨‍💻: I'm a student in Computer Science, passionate about programming.
