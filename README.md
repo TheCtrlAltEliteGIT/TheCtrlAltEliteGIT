@@ -31,7 +31,8 @@
 
 <img width="20" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"/> JavaScript/TypeScript
 
+## I hope you enjoy my stuff!
 
-
+<img width="20%" src="https://37.media.tumblr.com/0218e6c8bfa88edaf12ea65d9a3bed80/tumblr_n3ojvaQQ7U1ts7zvxo1_500.gif"/> 
 
 
